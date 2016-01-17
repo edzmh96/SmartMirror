@@ -1,2 +1,1 @@
-# SmartMirror
-Smart Mirror Project over the winter break
+we'll get around to writing this.
